@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+requests
+joblib
+matplotlib  # For plotting charts if needed
+alpha_vantage  # For fetching live stock data
